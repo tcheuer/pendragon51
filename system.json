@@ -1,29 +1,27 @@
 {
-  "name": "boilerplate",
-  "title": "Boilerplate",
-  "description": "The Boilerplate system for FoundryVTT!",
-  "version": "1.0.4",
-  "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "0.7.9",
-  "templateVersion": 2,
-  "author": "John Doe",
-  "esmodules": ["module/boilerplate.js"],
-  "styles": ["css/boilerplate.css"],
-  "scripts": [],
-  "packs": [],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "lang/en.json"
-    }
-  ],
-  "gridDistance": 5,
-  "gridUnits": "ft",
-  "primaryTokenAttribute": "health",
-  "secondaryTokenAttribute": "power",
-  "url": "",
-  "manifest": "",
-  "download": "",
-  "license": "LICENSE.txt"
+    "name": "pendragon51",
+    "title": "Pendragon 5.1e",
+    "description": "King Arthur Pendragon 5.1e, rules by Greg Stafford",
+    "version": "0.0.1",
+    "minimumCoreVersion": "0.7.5",
+    "compatibleCoreVersion": "0.7.10",
+    "templateVersion": 2,
+    "author": "Thomas Heuer Jr.",
+    "esmodules": ["module/boilerplate.js"],
+    "styles": ["css/boilerplate.css"],
+    "scripts": [],
+    "packs": [],
+    "languages": [{
+        "lang": "en",
+        "name": "English",
+        "path": "lang/en.json"
+    }],
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "primaryTokenAttribute": "health",
+    "secondaryTokenAttribute": "power",
+    "url": "https://github.com/tcheuer/Pendragon5.1",
+    "manifest": "",
+    "download": "",
+    "license": "LICENSE.txt"
 }
