@@ -7,8 +7,8 @@
     "compatibleCoreVersion": "0.7.10",
     "templateVersion": 2,
     "author": "Thomas Heuer Jr.",
-    "esmodules": ["module/boilerplate.js"],
-    "styles": ["css/boilerplate.css"],
+    "esmodules": ["module/pendragon51.js"],
+    "styles": ["css/pendragon51.css"],
     "scripts": [],
     "packs": [],
     "languages": [{
